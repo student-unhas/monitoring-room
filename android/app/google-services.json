@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "548483887665",
+    "firebase_url": "https://tugas-final-iot-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tugas-final-iot",
+    "storage_bucket": "tugas-final-iot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548483887665:android:c76dcbfafeed43e34bdb10",
+        "android_client_info": {
+          "package_name": "com.asdar.final_iot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnz8ZuKy3qzZYMZsWTWHs0Bsp6-FsDBf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
