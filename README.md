@@ -1,16 +1,9 @@
-# final_iot
+SISTEM MONITORING SUHU DAN KELEMBABAN RUANGAN
+OLEH 
+MUHAMMAD ASDAR / D082222008
 
-A new Flutter project.
+MASALAH
+Sistem monitoring suhu dan kelembaban ruangan yang dapat diaktifkan melalui smartphone menjadi solusi efektif untuk menciptakan kenyamanan di rumah. Dengan teknologi ini, pengguna dapat menyalakan AC dari jarak jauh sebelum sampai di rumah, memastikan bahwa saat tiba di sana, suhu ruangan sudah optimal. Hal ini tidak hanya meningkatkan efisiensi energi dengan menghindari penggunaan AC berlebihan, tetapi juga memberikan kemudahan dan kenyamanan dalam mengelola lingkungan di dalam rumah.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+SOLUSI
+Solusi efektif untuk meningkatkan kenyamanan di rumah adalah dengan mengimplementasikan sistem monitoring suhu dan kelembaban ruangan yang dapat diaktifkan melalui smartphone. Dengan teknologi ini, pengguna dapat mengatur AC secara remote sebelum tiba di rumah, memastikan bahwa suhu ruangan sudah optimal pada saat kedatangan. Pendekatan ini tidak hanya meningkatkan efisiensi energi dengan menghindari penggunaan AC yang berlebihan, tetapi juga memberikan kenyamanan dan kemudahan dalam mengelola lingkungan di dalam rumah.
